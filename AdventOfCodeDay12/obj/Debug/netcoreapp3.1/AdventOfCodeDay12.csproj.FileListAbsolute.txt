@@ -1,0 +1,14 @@
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\bin\Debug\netcoreapp3.1\AdventOfCodeDay12.exe
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\bin\Debug\netcoreapp3.1\AdventOfCodeDay12.deps.json
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\bin\Debug\netcoreapp3.1\AdventOfCodeDay12.runtimeconfig.json
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\bin\Debug\netcoreapp3.1\AdventOfCodeDay12.runtimeconfig.dev.json
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\bin\Debug\netcoreapp3.1\AdventOfCodeDay12.dll
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\bin\Debug\netcoreapp3.1\AdventOfCodeDay12.pdb
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.csproj.AssemblyReference.cache
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.AssemblyInfoInputs.cache
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.AssemblyInfo.cs
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.csproj.CoreCompileInputs.cache
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.dll
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.pdb
+D:\C#\APP\AdventOfCodeDay12\AdventOfCodeDay12\obj\Debug\netcoreapp3.1\AdventOfCodeDay12.genruntimeconfig.cache

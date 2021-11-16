@@ -1,0 +1,13 @@
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\bin\Release\netcoreapp3.1\SimpleAssemblerInterpreter.exe
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\bin\Release\netcoreapp3.1\SimpleAssemblerInterpreter.deps.json
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\bin\Release\netcoreapp3.1\SimpleAssemblerInterpreter.runtimeconfig.json
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\bin\Release\netcoreapp3.1\SimpleAssemblerInterpreter.runtimeconfig.dev.json
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\bin\Release\netcoreapp3.1\SimpleAssemblerInterpreter.dll
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\bin\Release\netcoreapp3.1\SimpleAssemblerInterpreter.pdb
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\obj\Release\netcoreapp3.1\SimpleAssemblerInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\obj\Release\netcoreapp3.1\SimpleAssemblerInterpreter.AssemblyInfoInputs.cache
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\obj\Release\netcoreapp3.1\SimpleAssemblerInterpreter.AssemblyInfo.cs
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\obj\Release\netcoreapp3.1\SimpleAssemblerInterpreter.csproj.CoreCompileInputs.cache
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\obj\Release\netcoreapp3.1\SimpleAssemblerInterpreter.dll
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\obj\Release\netcoreapp3.1\SimpleAssemblerInterpreter.pdb
+D:\C#\APP\AdventOfCodeDay12\SimpleAssemblerInterpreter\obj\Release\netcoreapp3.1\SimpleAssemblerInterpreter.genruntimeconfig.cache
